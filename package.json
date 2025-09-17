@@ -1,0 +1,15 @@
+{
+  "name": "projet-node",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "chalk": "^5.6.2"
+  },
+  "scripts": {
+    "mini": "node mini-projet-node.js",
+    "api": "node api.js",
+    "chalk": "node chalk-test.js",
+    "hello": "node hello.js"
+  }
+}
